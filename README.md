@@ -1,2 +1,1 @@
-# PenguinX
-PenguinX a secure operating system
+This website is WIP
